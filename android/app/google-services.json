@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "564546244239",
+    "project_id": "chat-with-admin-fd10f",
+    "storage_bucket": "chat-with-admin-fd10f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564546244239:android:1ee446528e13dfdca42afa",
+        "android_client_info": {
+          "package_name": "com.example.booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmhi1UgaznvqcAgPohAOBZDqkVQ-HKwGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564546244239:android:8a0f66327f37714ea42afa",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmhi1UgaznvqcAgPohAOBZDqkVQ-HKwGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564546244239:android:ec05c3264a2a6b60a42afa",
+        "android_client_info": {
+          "package_name": "com.example.chat_community"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmhi1UgaznvqcAgPohAOBZDqkVQ-HKwGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
