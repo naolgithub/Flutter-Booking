@@ -37,11 +37,11 @@ Follow these steps to get a copy of the project up and running on your local mac
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/naolgithub/Fast-Food.git
+   git clone https://github.com/naolgithub/Flutter-Booking.git
 
 2. Navigate to the project directory:
    ```bash
-   cd Fast_Food
+   cd booking
 
 3. Install dependencies:
    ```bash
